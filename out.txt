@@ -1,0 +1,6 @@
+The file out.txt
+contains the following lines:
+
+1 A tall tree
+2 in a short forest is like
+3 a big fish in a small pond.
